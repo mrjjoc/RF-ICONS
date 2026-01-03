@@ -1,0 +1,6 @@
+Estate Operations.jpg -> estate-operations.webp (35462 bytes)
+Fire Supression & Safety Systems.jpg -> fire-suppression-and-safety-systems.webp (34580 bytes)
+Permimeter & Site Security.jpg -> perimeter-and-site-security.webp (116100 bytes)
+predictive Maint.jpg -> predictive-maintenance.webp (43414 bytes)
+Remote Monitroing & Security.jpg -> remote-monitoring.webp (48502 bytes)
+Thermal Detection & Heat Risk.jpg -> thermal-detection-and-heat-risk.webp (47650 bytes)
